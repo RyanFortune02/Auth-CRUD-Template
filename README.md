@@ -1,5 +1,9 @@
 # Authorization CRUD
 
+## Steps to run locally
+
+1. Activate local env (. env/Scripts/Activate.ps1)
+
 ## Resources Used
 
 - [Authentication/Users](https://www.youtube.com/watch?v=c-QsfbznSXI)
