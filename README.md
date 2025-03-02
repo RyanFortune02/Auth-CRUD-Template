@@ -3,6 +3,7 @@
 ## Steps to run locally
 
 1. Activate local env (. env/Scripts/Activate.ps1)
+2. python -m pip install python-dotenv
 
 ## Resources Used
 
